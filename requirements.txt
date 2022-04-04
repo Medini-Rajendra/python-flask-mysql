@@ -102,18 +102,6 @@ Werkzeug == 2.1.1
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\validators.py: 18
 attrs == 21.4.0
 
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 45
-auxilium == 0.2.8
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 27
-baz == 0.2.6
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 9
-bluemax == 0.2.7
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 45
-ccextender == 1.28
-
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\certifi\__main__.py: 3
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\certs.py: 15
 certifi == 2021.10.8
@@ -132,12 +120,6 @@ charset_normalizer == 2.0.12
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\flask\testing.py: 7
 click == 8.1.2
 
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\adodbapi\adodbapi.py: 56
-clr == 1.0.3
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 11
-coding-test-foo == 2.0.3
-
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\click\_compat.py: 541
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\helpers.py: 12
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\utils.py: 11
@@ -145,63 +127,12 @@ coding-test-foo == 2.0.3
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\werkzeug\serving.py: 51
 colorama == 0.4.4
 
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 7
-cyw-bogus == 0.4.24
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 43
-django-name == 2.0.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 9
-django-typeform-feedback == 0.2.5
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 43
-essentia == 2.1b6.dev778
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 11
-foo-eric-test == 1.6.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 9
-foo-pen == 1.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\_format.py: 234
-fqdn == 1.5.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\html5lib\treeadapters\genshi.py: 4
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\genshi.py: 5
-genshi == 0.7.6
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\extractor\gevent_extractor.py: 8
-gevent == 21.12.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\extractor\gevent_extractor.py: 7
-greenlet == 1.1.2
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\html5lib\html5parser.py: 28,51,95,264,289
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\html5lib\serializer.py: 377,379
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\__init__.py: 41
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\base.py: 102
-html5lib == 1.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\distlib\compat.py: 36,41
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\requests\compat.py: 46
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\compat.py: 47
-httpsproxy-urllib2 == 1.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\tests\fuzz_validate.py: 9
-hypothesis == 6.41.0
-
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\_format.py: 252
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\help.py: 9
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\models.py: 352
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\urllib3\contrib\pyopenssl.py: 191
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\urllib3\util\url.py: 305
 idna == 3.3
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\distlib\scripts.py: 118
-import-java == 0.6
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\_utils.py: 12
-importlib-resources == 5.6.0
 
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\click\decorators.py: 436
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\flask\cli.py: 39
@@ -211,21 +142,8 @@ importlib-resources == 5.6.0
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\pep517\meta.py: 12
 importlib_metadata == 4.11.3
 
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 9
-ithinkdttestlib == 0.1.0
-
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\flask\sessions.py: 7,8
 itsdangerous == 2.1.2
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 45
-jcao == 0.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\Pyro4\util.py: 139
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\adodbapi\test\dbapi20.py: 28
-json-conf-autoref == 0.1.51
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\_format.py: 397
-jsonpointer == 2.2
 
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\__init__.py: 30
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\__main__.py: 1
@@ -260,19 +178,6 @@ jsonschema == 4.4.0
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\nbformat\sign.py: 28
 jupyter_core == 4.9.2
 
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 45
-lwdnxu == 0.0.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\html5lib\treebuilders\etree_lxml.py: 30
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\html5lib\treewalkers\etree_lxml.py: 6
-lxml == 4.8.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 41
-mod == 0.3.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\setuptools\sandbox.py: 18
-mrlpy == 1.0.0
-
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\MySQLdb\__init__.py: 17,46,121
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\MySQLdb\connections.py: 146
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\MySQLdb\converters.py: 37,47
@@ -285,21 +190,6 @@ mysqlclient == 2.1.0
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\nbformat\v4\convert.py: 21
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\parser.py: 16
 nbformat == 5.2.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\passlib\tests\__main__.py: 2
-nose == 1.3.7
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\setuptools\sandbox.py: 18
-openbaton-cli == 6.0.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\setuptools\sandbox.py: 18
-org-geppetto-recording == 0.1.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\CreateFileTransacted_MiniVersion.py: 8
-os-sys == 2.1.4
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\CreateFileTransacted_MiniVersion.py: 8
-os-sys-linux == 0.0.0.dev0
 
 # C:\Users\mach5\Desktop\Python_Flask_DB\app.py: 4
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\passlib\apache.py: 19
@@ -566,22 +456,6 @@ passlib == 1.7.4
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\urllib3\util\url.py: 305
 pip == 21.1.3
 
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 9
-pkgtesting == 1.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\setuptools\sandbox.py: 18
-py4grid == 1.0.5
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\requests\help.py: 22
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\pyopenssl.py: 50,159
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\help.py: 31
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\urllib3\contrib\pyopenssl.py: 50,161
-pyopenssl == 22.0.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\benchmarks\issue232.py: 8
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\benchmarks\json_schema_test_suite.py: 7
-pyperf == 2.3.1
-
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\_types.py: 6
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\benchmarks\issue232.py: 9
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\tests\test_cli.py: 18
@@ -599,34 +473,6 @@ pyperf == 2.3.1
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pyrsistent\_toolz.py: 47
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pyrsistent\_transformations.py: 120
 pyrsistent == 0.18.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jupyter_core\tests\test_application.py: 6
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jupyter_core\tests\test_command.py: 10
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jupyter_core\tests\test_migrate.py: 11
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jupyter_core\tests\test_paths.py: 12
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\nbformat\corpus\tests\test_words.py: 6
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\traitlets\config\tests\test_application.py: 19,20
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\traitlets\config\tests\test_configurable.py: 9
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\traitlets\config\tests\test_loader.py: 14
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\traitlets\tests\test_traitlets.py: 14
-pytest == 7.1.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\ntlmpool.py: 10
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\urllib3\contrib\ntlmpool.py: 11
-python-ntlm == 1.1.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\ntlmpool.py: 10
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\urllib3\contrib\ntlmpool.py: 11
-python-ntlm-fixed == 1.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\setuptools\sandbox.py: 18
-python-plugin-sdk == 6.0.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pythonwin\pywin\tools\regpy.py: 3
-python2-pythondialog == 3.5.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pythonwin\pywin\tools\regpy.py: 3
-pythondialog == 3.5.3
 
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\adodbapi\adodbapi.py: 67,68,69
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\adodbapi\examples\db_print.py: 4,29
@@ -1007,9 +853,6 @@ pythondialog == 3.5.3
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Scripts\pywin32_postinstall.py: 129
 pywin32 == 303
 
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pythonwin\pywin\framework\editor\editor.py: 23
-regex == 2022.3.15
-
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\validators.py: 908
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\core.py: 28
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\pypi.py: 19
@@ -1022,19 +865,6 @@ regex == 2022.3.15
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\models.py: 202,276
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\sessions.py: 326
 requests == 2.27.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\_format.py: 333
-rfc3339-validator == 0.1.4
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\_format.py: 271
-rfc3986-validator == 0.1.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 45
-rmctl == 0.1.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\Pyro4\util.py: 139
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\adodbapi\test\dbapi20.py: 28
-santos == 1.0.1
 
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\Pyro4\core.py: 1795
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\Pyro4\util.py: 229,247
@@ -1087,27 +917,6 @@ serpent == 1.40
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\werkzeug\testapp.py: 163
 setuptools == 56.0.0
 
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 45
-simple-lpk == 0.0.5
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\urllib3\contrib\securetransport.py: 67
-six == 1.16.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\traitlets\tests\_warnings.py: 67
-skimage == 0.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 45
-sta663yw261 == 2.0.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 9
-test-package-heeere == 0.1.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 9
-test-package-heere == 0.1.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\tenacity\tornadoweb.py: 23
-tornado == 6.1
-
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jupyter_core\application.py: 18
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jupyter_core\migrate.py: 28,29
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jupyter_core\tests\test_application.py: 7
@@ -1128,9 +937,6 @@ tornado == 6.1
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\traitlets\tests\test_traitlets_enum.py: 8
 traitlets == 5.1.1
 
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\_format.py: 445
-uri-template == 1.2.0
-
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\__init__.py: 43,116,126
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\adapters.py: 45
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\exceptions.py: 9
@@ -1139,42 +945,6 @@ uri-template == 1.2.0
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\requests\utils.py: 23,24
 urllib3 == 1.26.9
 
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\werkzeug\_reloader.py: 306,307,391
-watchdog == 2.1.7
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\_format.py: 380,381
-webcolors == 1.11.1
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jupyter_core\paths.py: 432
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\BackupRead_BackupWrite.py: 3
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\FileSecurityTest.py: 3
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\RegRestoreKey.py: 2
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\account_rights.py: 1
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\explicit_entries.py: 2
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\get_policy_info.py: 1
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\list_rights.py: 1
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\localized_names.py: 9
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\query_information.py: 1
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\regsave_sa.py: 3
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\regsecurity.py: 1
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\security_enums.py: 1
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\set_file_audit.py: 1
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\set_file_owner.py: 3
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\security\set_policy_info.py: 1
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\Demos\service\pipeTestService.py: 20
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\test\test_security.py: 7
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32\test\test_win32file.py: 4
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32comext\adsi\demos\scp.py: 41
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32comext\authorization\demos\EditSecurity.py: 7
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32comext\authorization\demos\EditServiceSecurity.py: 27
-win32compat == 221.26
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 9
-zhangyx-test-1 == 0.50
-
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\importlib_metadata\__init__.py: 6
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pip\_vendor\pep517\meta.py: 17
 zipp == 3.8.0
-
-# C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\tests\imports_example\example1.py: 45
-zsq-test == 0.1.0
