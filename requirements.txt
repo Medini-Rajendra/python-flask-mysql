@@ -3,7 +3,7 @@
 # C:\Users\mach5\Desktop\Python_Flask_DB\app.py: 1
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\flask_mysqldb\__init__.py: 3
 Flask == 2.1.1
-libmysqlclient-dev
+libmysqlclient-dev == 1.0.5
 
 # C:\Users\mach5\Desktop\Python_Flask_DB\app.py: 2
 Flask_MySQLdb == 1.0.1
