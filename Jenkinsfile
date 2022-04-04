@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment {
         DOCKERHUB_CREDENTIALS=credentials('mach512-dockerhub')
-        DOCKER_HUB_REPO = "mach512/testflaskpython-flask-mysql"
+        DOCKER_HUB_REPO = "mach512/python-flask-mysql"
         CONTAINER_NAME = "flask-mysql-container"
         STUB_VALUE = "200"
     }
