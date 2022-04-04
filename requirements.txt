@@ -851,7 +851,7 @@ pyrsistent == 0.18.1
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32comext\taskscheduler\test\test_addtask_1.py: 1,2
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\win32comext\taskscheduler\test\test_addtask_2.py: 1,2
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Scripts\pywin32_postinstall.py: 129
-pywin32 == 303
+pypiwin32 == 303
 
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\jsonschema\validators.py: 908
 # C:\Users\mach5\Desktop\Python_Flask_DB\venv\Lib\site-packages\pigar\core.py: 28
